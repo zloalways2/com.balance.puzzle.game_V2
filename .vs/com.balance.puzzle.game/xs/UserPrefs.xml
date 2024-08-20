@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{F0163540-4BA7-C661-5578-50FB1079BEB9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MatchGameController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MemoryCard.cs" Line="17" Column="10" />
+      <File FileName="Assets/Scripts/GameTimer.cs" />
+      <File FileName="Assets/Scripts/MatchGameController.cs" Line="106" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="com.balance.puzzle.game" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7d16fbdf-97a3-49bd-904c-e722179d3533" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
